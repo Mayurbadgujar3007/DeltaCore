@@ -26,7 +26,7 @@ namespace DeltaWare1.Service
                 Name = "DocTonar",
                 Description = "Document Solar Objects"
             }
-            // Add more products as needed
+           
         };
 
                 return productList;
