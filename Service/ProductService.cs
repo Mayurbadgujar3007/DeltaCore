@@ -5,7 +5,6 @@ namespace DeltaWare1.Service
     {
             public List<DeltaWare> GetProducts()
             {
-                // Simulate fetching data from a database or some other source
                 List<DeltaWare> productList = new List<DeltaWare>
         {
             new DeltaWare 
